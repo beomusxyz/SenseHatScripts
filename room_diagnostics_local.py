@@ -1,4 +1,4 @@
-#similar to room_diagnostics.py but here you use the joystick to select what sensor data you want to display on the 8x8 LED Matrix.
+# Similar to room_diagnostics.py but here you use the joystick to select what sensor data you want to display on the 8x8 LED Matrix.
 # Up for barometric pressure, down for humidity, and middle for thermometer, all in different colours so you can easily tell which is which.
 
 #defining libraries
