@@ -1,4 +1,4 @@
-#a script that lets you leave your raspberry pi somewhere, and view environment data on its environment from your shell.
+# script that lets you leave your raspberry pi somewhere, and view environment data on its environment from your shell.
 
 #defining libraries
 from sense_hat import SenseHat
