@@ -47,8 +47,6 @@ def humidity():
 
 sense.stick.direction_up = barometric
 sense.stick.direction_down = humidity
-# sense.stick.direction_left = 
-# sense.stick.direction_right = 
 sense.stick.direction_middle = thermometer
 
 #do it again
